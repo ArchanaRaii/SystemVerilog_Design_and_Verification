@@ -14,4 +14,8 @@ All lab exercises are implemented and simulated using **Xilinx Vivado**, leverag
 
 Embarking on this course has been a rewarding experience, enhancing my understanding of SystemVerilog for both design and verification. I hope this repository serves as a valuable resource for others on a similar learning path.
 
+**🤝 Contributions**
+
+While this is a personal learning repository, I welcome suggestions, improvements, or discussions. Feel free to open an issue or submit a pull request.
+
 **Happy Coding! 🎉**
