@@ -12,6 +12,7 @@ All lab exercises are implemented and simulated using **Xilinx Vivado**, leverag
 | 2   | Modeling a simple multiplexer            | ✅ Done |
 | 3   | Modeling a simple counter                | ✅ Done |
 | 4   | Modeling a sequence controller           | ✅ Done |
+| 5   | Modeling an ALU                          | ✅ Done |
 
 Embarking on this course has been a rewarding experience, enhancing my understanding of SystemVerilog for both design and verification. I hope this repository serves as a valuable resource for others on a similar learning path.
 
